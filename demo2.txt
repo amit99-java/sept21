@@ -1,0 +1,13 @@
+Dashboard Queries
+1.Get All Active users?
+2.Get user by username?
+3.Get all users with role as 'ROLE_ADMIN' and 'ROLE_OPERATOR'?
+4.Get All menu's for 'ROLE_ADMIN' user?
+5.Get All menu's for 'ROLE_OPERATOR' user?
+6.Get All menu items for a particular menu?
+7.Get all roles?
+8.Get All categories?
+9.Get All categories by role?
+10.Get All active servers details?
+11.Get All server details with instance name as ESB server?
+12.Get server details where instance name is SMS server/Email Server?
